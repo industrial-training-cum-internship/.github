@@ -1,7 +1,11 @@
-## Hi there 👋
+# Industrial Training cum Internship
+
+This orgatinisation is for the Project based Industrial Training cum Internship jointly organised by CIT, Kokrajhar and NEILIT, Guwahati
+
+
 
 <!--
-
+## Hi there 👋
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
