@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://www.nielit.gov.in/" target="_blank" rel="noopener noreferrer">
+    <img width="180" height="100" src="https://nielit.gov.in/sites/all/themes/berry/images/NIELIT-Logo.png" alt="nielit-logo">
+  </a>
+  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">
+    <img width="100" height="100" src="https://cit.ac.in/images/cit-logo.png" alt="cit-logo">
+  </a>
+</p>
+
 # Industrial Training cum Internship
 
 This organisation is for the Project based Industrial Training cum Internship jointly organised by CIT Kokrajhar and NEILIT, Guwahati
