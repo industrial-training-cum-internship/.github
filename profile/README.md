@@ -9,7 +9,7 @@
 
 # Industrial Training cum Internship
 
-This organisation is for the Project based Industrial Training cum Internship jointly organised by CIT Kokrajhar and NEILIT, Guwahati
+This organisation is for the Project based Industrial Training cum Internship jointly organised by CIT Kokrajhar and NIELIT, Guwahati
 
 
 
